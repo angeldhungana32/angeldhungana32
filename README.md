@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @angeldhungana32
-- 👀 I’m interested in Coding, Soccer and learning in general
+- 👋 Hi, I’m @angeldhungana
+- 👀 I’m interested in coding, design, architecture and learning in general
 - 🌱 I’m currently learning Microservices Architecture, Clean Design and DDD.
 - 💞️ I’m looking to collaborate on REST API development with ASP.NET Core, or any mobile or web projects with .NET Core.
